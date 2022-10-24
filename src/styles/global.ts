@@ -78,7 +78,7 @@ export const GlobalStyle = createGlobalStyle`
     border-radius: 0.25rem;
   }
 
-  .react-modal-closs {
+  .react-modal-close {
     position: absolute;
     right: 1.5rem;
     top: 1.5rem;

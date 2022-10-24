@@ -27,6 +27,7 @@ export const Container = styled.form`
     & + input {
       margin-top: 1rem;
     }
+  }
 
     button[type='submit'] {
       width: 100%;
@@ -46,7 +47,6 @@ export const Container = styled.form`
         filter: brightness(0.9);
       }
     }
-  }
 `;
 
 export const TransactionTypeContainer = styled.div`
